@@ -1,0 +1,4 @@
+com\mycompany\interfaces\App.class
+com\mycompany\interfaces\Cuadrado.class
+com\mycompany\interfaces\Circulo.class
+com\mycompany\interfaces\Calculable.class

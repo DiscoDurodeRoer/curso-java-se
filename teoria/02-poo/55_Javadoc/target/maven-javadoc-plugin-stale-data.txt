@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'D:/programacion/Java/proyectosNetBeans/curso java youtube/55_Javadoc/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/programacion/Java/proyectosNetBeans/curso java youtube/55_Javadoc/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'55_Javadoc 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'55_Javadoc 1.0-SNAPSHOT API'
+com.mycompany.javadoc
+D:\programacion\Java\proyectosNetBeans\curso java youtube\55_Javadoc\src\main\java = 1709414048137
+D:\programacion\Java\proyectosNetBeans\curso java youtube\55_Javadoc\target\site\apidocs\allclasses-index.html = 1710883091235
+D:\programacion\Java\proyectosNetBeans\curso java youtube\55_Javadoc\target\site\apidocs\allpackages-index.html = 1710883091237
+D:\programacion\Java\proyectosNetBeans\curso java youtube\55_Javadoc\target\site\apidocs\copy.svg = 1710883091272
+D:\programacion\Java\proyectosNetBeans\curso java youtube\55_Javadoc\target\site\apidocs\element-list = 1710883091174
+D:\programacion\Java\proyectosNetBeans\curso java youtube\55_Javadoc\target\site\apidocs\help-doc.html = 1710883091268
+D:\programacion\Java\proyectosNetBeans\curso java youtube\55_Javadoc\target\site\apidocs\index-all.html = 1710883091259
+D:\programacion\Java\proyectosNetBeans\curso java youtube\55_Javadoc\target\site\apidocs\index.html = 1710883091264
+D:\programacion\Java\proyectosNetBeans\curso java youtube\55_Javadoc\target\site\apidocs\link.svg = 1710883091273
+D:\programacion\Java\proyectosNetBeans\curso java youtube\55_Javadoc\target\site\apidocs\member-search-index.js = 1710883091240
+D:\programacion\Java\proyectosNetBeans\curso java youtube\55_Javadoc\target\site\apidocs\module-search-index.js = 1710883091238
+D:\programacion\Java\proyectosNetBeans\curso java youtube\55_Javadoc\target\site\apidocs\overview-tree.html = 1710883091217
+D:\programacion\Java\proyectosNetBeans\curso java youtube\55_Javadoc\target\site\apidocs\package-search-index.js = 1710883091239
+D:\programacion\Java\proyectosNetBeans\curso java youtube\55_Javadoc\target\site\apidocs\script.js = 1710883091271
+D:\programacion\Java\proyectosNetBeans\curso java youtube\55_Javadoc\target\site\apidocs\search-page.js = 1710883091277
+D:\programacion\Java\proyectosNetBeans\curso java youtube\55_Javadoc\target\site\apidocs\search.html = 1710883091262
+D:\programacion\Java\proyectosNetBeans\curso java youtube\55_Javadoc\target\site\apidocs\search.js = 1710883091276
+D:\programacion\Java\proyectosNetBeans\curso java youtube\55_Javadoc\target\site\apidocs\stylesheet.css = 1710883091270
+D:\programacion\Java\proyectosNetBeans\curso java youtube\55_Javadoc\target\site\apidocs\tag-search-index.js = 1710883091241
+D:\programacion\Java\proyectosNetBeans\curso java youtube\55_Javadoc\target\site\apidocs\type-search-index.js = 1710883091239
