@@ -10,10 +10,6 @@ El curso esta divido por partes.
 
 Video en [youtube](https://youtu.be/edKdQcbFzHI)
 
-## POO
-
-Video en [youtube](https://youtu.be/uevW8V0-CB8)
-
 #### Teoria
 
 0. Instalación Java y Apache Netbeans (IDE)
@@ -46,32 +42,6 @@ Video en [youtube](https://youtu.be/uevW8V0-CB8)
 27. Funciones y arrays
 28. Excepciones
 29. Enumerados
-30. Introduccion POO
-31. Atributos
-32. Modificadores de acceso
-33. Constructores
-34. Getters y setters
-35. Métodos
-36. Sobrecarga de métodos y constructores
-37. Método toString
-38. Métodos equals y hashCode
-39. Enumerados avanzados
-40. Atributos estáticos
-41. Métodos estáticos
-42. Objetos como atributos
-43. Record
-44. Record métodos
-45. Record constructores
-46. Record atributos estáticos
-47. Herencia
-48. Polimorfismo
-49. Abstracción
-50. Interfaces
-51. Arrays de objetos
-52. Instanceof
-53. CompareTo
-54. Clases genericas
-55. Javadoc
 
 #### Ejercicios
 
@@ -134,6 +104,41 @@ Video en [youtube](https://youtu.be/uevW8V0-CB8)
 29. Crea una matriz de caracteres, donde este todo vacío excepto una donde este el carácter X. El objetivo es mover ese X por el tablero sin que se salga del tablero. Las direcciones son arriba, abajo, izquierda y derecha.
 
 30. Crea un enumerado con todos los meses del año. Dado un mes, indica el numero de días que tiene. En el caso de febrero, pediremos el año, ya que si el año es bisiesto tendrá 29 días sino tendrá 28 días. Debes validar si se inserta un mes valido o si se inserta los datos correctos. Los meses que tienen 31 días son: Enero, Marzo, Mayo, Julio, Agosto, Octubre y Diciembre. Los meses que tienen 30 días son: Abril, Junio, Septiembre y Noviembre.
+
+## POO
+
+Video en [youtube](https://youtu.be/uevW8V0-CB8)
+
+#### Teoria
+
+30. Introduccion POO
+31. Atributos
+32. Modificadores de acceso
+33. Constructores
+34. Getters y setters
+35. Métodos
+36. Sobrecarga de métodos y constructores
+37. Método toString
+38. Métodos equals y hashCode
+39. Enumerados avanzados
+40. Atributos estáticos
+41. Métodos estáticos
+42. Objetos como atributos
+43. Record
+44. Record métodos
+45. Record constructores
+46. Record atributos estáticos
+47. Herencia
+48. Polimorfismo
+49. Abstracción
+50. Interfaces
+51. Arrays de objetos
+52. Instanceof
+53. CompareTo
+54. Clases genericas
+55. Javadoc
+
+#### Ejercicios
 
 31. Realiza una clase que represente a un libro. Un libro se define por:
 
