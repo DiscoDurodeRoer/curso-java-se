@@ -49,7 +49,7 @@ Video en [youtube](https://youtu.be/edKdQcbFzHI)
 
 2. Pide el precio de un producto sin IVA y calcula su precio con IVA. El IVA es del 21%. Formatea el resultado para que se muestre con dos decimales.
 
-3. Pide dos números por teclado e indica si el segundo es divisible por el primero Por ejemplo, si numero1 = 10 y numero2 = 5 debería mostrar: "El numero 5 es divisible de 10"
+3. Pide dos números por teclado e indica si el primero es divisible por el segundo Por ejemplo, si numero1 = 10 y numero2 = 5 debería mostrar: "El numero 5 es divisible de 10"
 
 4. Pide un año por teclado e indica si es bisiesto o no. Un año es bisiesto cuando es divisible entre 4 y no divisible por 100 o es divisible por 400.
 
