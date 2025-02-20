@@ -714,9 +714,9 @@ Crea un menu con las siguientes opciones:
 
 [Resolucion](https://youtu.be/PFbPUyQBsCo)
 
-## Básico
+## Fechas
 
-Video en [youtube](https://youtu.be/edKdQcbFzHI)
+Video en [youtube](https://youtu.be/OoF8ItJBAck)
 
 #### Teoria
 
