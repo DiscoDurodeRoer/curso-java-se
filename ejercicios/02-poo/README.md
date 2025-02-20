@@ -32,6 +32,8 @@
 
     Un libro es igual a otro cuando sus ISBN son iguales
 
+[Resolucion](https://youtu.be/Ub-p5RUJ0ws)
+
 32. Crea una clase que represente a un ordenador. Un ordenador se define por:
 
     - Marca
@@ -69,6 +71,8 @@
     Un ordenador es igual a otro cuando tienen la misma marca y modelo.
 
     Muestra la informacion con toString
+
+[Resolucion](https://youtu.be/TdGcQiTMjsQ)
 
 33. Crea una clase que represente a un empleado. Un empleado se define por:
 
@@ -110,7 +114,11 @@
 
     Muestra la información del empleado.
 
+[Resolucion](https://youtu.be/ZboRq87cCSA)
+
 34. Realiza el ejercicio 31 usando Record
+
+[Resolucion](https://youtu.be/tvbuof7Y7hM)
 
 35. Crea una clase que represente un Producto. Un producto se define por:
 
@@ -150,6 +158,8 @@
 
     - comprar: dada una cantidad, indicar el precio total
 
+[Resolucion](https://youtu.be/RVTOmpTGHfs)
+
 36. Crea una clase que represente a un vehiculo Un vehiculo se define por:
 
     - Marca
@@ -181,6 +191,8 @@
     - Si es o no descapotable
 
     Crea un método toString para mostrar su informacion.
+
+[Resolucion](https://youtu.be/pQMsKMMNQt0)
 
 37. Crea una clase que represente un aeropuerto. Un aeropuerto se define por:
 
@@ -221,6 +233,8 @@
     Encapsula todos sus atributos. Crea dos constructores, uno vacio y otro por defecto. Las operaciones que se deben implementar:
 
     - gananciasTotales: dada una cantidad, se dividira entre el numero de socios.
+
+[Resolucion](https://youtu.be/DPgBhsBpZEQ)
 
 38. Crea una interfaz que se llame Prestable:
 
@@ -264,6 +278,8 @@
 
     - devolver: devuelve el valor del atributo cantidad al titular, mostrará un mensaje indicándolo. El adeudo se reducirá, el adeudo no puede ser negativo, por lo que se quedara en cero en ese caso.
 
+[Resolucion](https://youtu.be/zXp7jL6cX0c)
+
 39. Recuperamos la clase Producto y sus clases hijas. Crea un array de productos de diferentes tipos y muestralos ordenados por precio del mas barato al mas caro.
 
     Al final debes mostrar:
@@ -276,42 +292,46 @@
 
     - el producto fresco mas proximo a caducar
 
+[Resolucion](https://youtu.be/5aWLi14-ccw)
+
 40. Crea una clase llamada Lista.
 
-    Se define por los atributos:
+Se define por los atributos:
 
-    - elementos
+elementos
 
-    - numElementos
+numElementos
 
-    El atributo elementos puede ser cualquier tipo que le indiquemos. Tendremos un constructor donde le pasaremos el tamaño que queremos del array, debe ser positivo.
+El atributo elementos puede ser cualquier tipo que le indiquemos. Tendremos un constructor donde le pasaremos el tamaño que queremos del array, debe ser positivo.
 
-    Crea una interfaz llamada Listable con las siguientes operaciones:
+Crea una interfaz llamada Listable con las siguientes operaciones:
 
-    - posicion: le pasamos un elemento T y devolvera un numero
+posicion: le pasamos un elemento T y devolvera un numero
 
-    - aniadir: le pasamos un elemento T y devolvera un booleano
+aniadir: le pasamos un elemento T y devolvera un booleano
 
-    - tamanio: sin parametros y devolvera un numero
+tamanio: sin parametros y devolvera un numero
 
-    - eliminar: le pasamos un elemento T y devolvera un booleano
+eliminar: le pasamos un elemento T y devolvera un booleano
 
-    - listar: sin parametros y no devuelve nada
+listar: sin parametros y no devuelve nada
 
-    - vaciar: sin parametros y no devuelve nada
+vaciar: sin parametros y no devuelve nada
 
-    Implementala en nuestra clase Lista
+Implementala en nuestra clase Lista
 
-    Las operaciones de Lista son:
+Las operaciones de Lista son:
 
-    - posicion: dado un elemento, indica en que indice esta, sino existe, devolvemos un -1
+posicion: dado un elemento, indica en que indice esta, sino existe, devolvemos un -1
 
-    - aniadir: añade un elemento al array, siempre y cuando haya espacio. No se admiten repetidos. True si lo añade y false sino lo hace
+aniadir: añade un elemento al array, siempre y cuando haya espacio. No se admiten repetidos. True si lo añade y false sino lo hace
 
-    - tamanio: devuelve el numero de elementos que hay
+tamanio: devuelve el numero de elementos que hay
 
-    - eliminar: elimina el elemento que le pasemos. True si lo elimina y false sino lo hace.
+eliminar: elimina el elemento que le pasemos. True si lo elimina y false sino lo hace.
 
-    - listar: muestra los elementos que tenemos
+listar: muestra los elementos que tenemos
 
-    - vaciar: reinicia el array al tamaño original
+vaciar: reinicia el array al tamaño original
+
+[Resolucion](https://youtu.be/rtHOpAXF1Kc)

@@ -1,19 +1,19 @@
 # Teoria
 
-56. File
-57. Path, Paths y Files
-58. FileWriter
-59. FileReader
-60. Try resources
-61. BufferedWriter
-62. BufferedReader
-63. PrintWriter
-64. Scanner
-65. FileInputStream
-66. FileOutputStream
-67. DataOutputStream
-68. DataInputstream
-69. RandomAccessFile
-70. ObjectOutputStream
-71. ObjectInputStream
-72. MyObjectOutputStream
+56. [File](https://youtu.be/qvVYJRx8lic)
+57. [Path, Paths y Files](https://youtu.be/1iH-lPloEeY)
+58. [FileWriter](https://youtu.be/f0o5Un4FP1s)
+59. [FileReader](https://youtu.be/Cj2bc-MqCJc)
+60. [Try resources](https://youtu.be/gGSUdfdVOX8)
+61. [BufferedWriter](https://youtu.be/kcJZYWuMDp0)
+62. [BufferedReader](https://youtu.be/hh_68YqwNeQ)
+63. [PrintWriter](https://youtu.be/tKgRgSCFV1w)
+64. [Scanner](https://youtu.be/0bH5p9gdTtY)
+65. [FileInputStream](https://youtu.be/ma2uPk2ThfE)
+66. [FileOutputStream](https://youtu.be/4rZ-Yla0VT4)
+67. [DataInputstream](https://youtu.be/w3SH17x8oNc)
+68. [DataOutputStream](https://youtu.be/89QZfbWi0aY)
+69. [RandomAccessFile](https://youtu.be/27YY2SPFRn8)
+70. [ObjectOutputStream](https://youtu.be/M-Ie_yW7prQ)
+71. [ObjectInputStream](https://youtu.be/Bu47Rin_F9k)
+72. [MyObjectOutputStream](https://youtu.be/UUmOV9UgCjY)

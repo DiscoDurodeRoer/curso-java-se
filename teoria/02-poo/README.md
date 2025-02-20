@@ -1,28 +1,28 @@
 # Teoria
 
-30. Introduccion POO
-31. Atributos
-32. Modificadores de acceso
-33. Constructores
-34. Getters y setters
-35. Métodos
-36. Sobrecarga de métodos y constructores
-37. Método toString
-38. Métodos equals y hashCode
-39. Enumerados avanzados
-40. Atributos estáticos
-41. Métodos estáticos
-42. Objetos como atributos
-43. Record
-44. Record métodos
-45. Record constructores
-46. Record atributos estáticos
-47. Herencia
-48. Polimorfismo
-49. Abstracción
-50. Interfaces
-51. Arrays de objetos
-52. Instanceof
-53. CompareTo
-54. Clases genericas
-55. Javadoc
+30. [Introduccion POO](https://youtu.be/ufxujl6ddGI)
+31. [Atributos](https://youtu.be/uQE_jhII9yk)
+32. [Modificadores de acceso](https://youtu.be/FnoJRHANplM)
+33. [Constructores](https://youtu.be/2g_mNGcmOGU)
+34. [Getters y setters](https://youtu.be/t7mFViLoMMQ)
+35. [Métodos](https://youtu.be/5ySlie5-mbc)
+36. [Sobrecarga de métodos y constructores](https://youtu.be/DgPHq8g2uso)
+37. [Método toString](https://youtu.be/tkwJBMrhoR0)
+38. [Métodos equals y hashCode](https://youtu.be/kz7pIOQfZNI)
+39. [Enumerados avanzados](https://youtu.be/lDbuAbSnHf8)
+40. [Atributos estáticos](https://youtu.be/UL7iVWazW48)
+41. [Métodos estáticos](https://youtu.be/EpX_r4j3UyI)
+42. [Objetos como atributos](https://youtu.be/dC_bFy72sFs)
+43. [Record](https://youtu.be/xLmZv9jOI2w)
+44. [Record métodos](https://youtu.be/zApYx-giQVY)
+45. [Record constructores](https://youtu.be/kxQtB7NmFHI)
+46. [Record atributos estáticos](https://youtu.be/c2qpQY46twA)
+47. [Herencia](https://youtu.be/XJVhxtlpIlg)
+48. [Polimorfismo](https://youtu.be/TU_woJjYMfU)
+49. [Abstracción](https://youtu.be/P0jfYD4-nDM)
+50. [Interfaces](https://youtu.be/wSmj9WaJOic)
+51. [Arrays de objetos](https://youtu.be/ZQ4D0ZPJNeM)
+52. [Instanceof](https://youtu.be/5b4Fvyw39wQ)
+53. [CompareTo](https://youtu.be/USP-fQVQSAc)
+54. [Clases genericas](https://youtu.be/yOiAPHhc_qU)
+55. [Javadoc](https://youtu.be/VrT5DuwU1Xc)

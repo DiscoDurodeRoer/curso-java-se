@@ -1,33 +1,32 @@
 # Teoria
 
-1. Instalación Java
-2. Instalación Apache Netbeans (IDE)
-3. Hola mundo
-4. Variables
-5. Tipos de variables
-6. Constantes
-7. Comentarios
-8. Pedir datos por Scanner
-9. Mostrar datos
-10. Operadores aritmeticos
-11. Operadores unarios
-12. Operadores logicos
-13. Operadores relaciones
-14. Casting
-15. Clase Math
-16. Generar aleatorios con Random
-17. if else
-18. else if
-19. switch
-20. while
-21. for
-22. do while
-23. Scopes
-24. String
-25. Funciones
-26. Arrays
-27. Clase Arrays
-28. Matrices
-29. Funciones y arrays
-30. Excepciones
-31. Enumerados
+0. [Instalación Java y Apache Netbeans (IDE)](https://youtu.be/QRbaGzwT2bI)
+1. [Hola mundo](https://youtu.be/P9vQVt1ijkw)
+2. [Variables](https://youtu.be/5EhR-6oW8-U)
+3. [Tipos de variables](https://youtu.be/Ex_sSkO0Jnw)
+4. [Constantes](https://youtu.be/FF0DUnrxF4w)
+5. [Comentarios](https://youtu.be/JK6nwgzKcss)
+6. [Pedir datos por Scanner](https://youtu.be/pneMBAMg2gI)
+7. [Mostrar datos](https://youtu.be/BdC78rIs53k)
+8. [Operadores aritmeticos](https://youtu.be/H6nrhX1vtWo)
+9. [Operadores unarios](https://youtu.be/k5orm0jw9fg)
+10. [Operadores logicos](https://youtu.be/Lh7ZoUBCQLM)
+11. [Operadores relaciones](https://youtu.be/DXzXImWEz7I)
+12. [Casting](https://youtu.be/w57EQJHheY8)
+13. [Clase Math](https://youtu.be/OrxPCY10xmA)
+14. [Generar aleatorios con Random](https://youtu.be/0tZX44gn-xM)
+15. [if else](https://youtu.be/L4CWveSgkrE)
+16. [else if](https://youtu.be/CZIW1rl9UaE)
+17. [switch](https://youtu.be/kjWy2CirZDw)
+18. [while](https://youtu.be/qcNKc7iuz4M)
+19. [for](https://youtu.be/zVcVRHezGIA)
+20. [do while](https://youtu.be/hruQAqkgYJ0)
+21. [Scopes](https://youtu.be/Ga3xP1qamwE)
+22. [String](https://youtu.be/Qb82zYVZOJs)
+23. [Funciones](https://youtu.be/bJ0jYu9ra3k)
+24. [Arrays](https://youtu.be/H98XZT7fllA)
+25. [Clase Arrays](https://youtu.be/zBxgqMGzeVU)
+26. [Funciones y arrays](https://youtu.be/XiUyFe0cdAQ)
+27. [Matrices](https://youtu.be/FPxR43CVFhI)
+28. [Excepciones](https://youtu.be/o4RfZHBux70)
+29. [Enumerados](https://youtu.be/Y6uo5L3z8hw)

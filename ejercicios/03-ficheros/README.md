@@ -12,15 +12,21 @@ Si el directorio pruebas existe, lo borraremos antes de empezar a crear.
 
 Puedes hacerlo con File o Path.
 
+[Resolucion](https://youtu.be/ApD0XlxWSMc)
+
 42. Pide un número positivo por teclado. 
 
 Escribe en el fichero numeros.txt los numeros del 1 al número introducido.
 
 Despues, lee el fichero y muestra su contenido.
 
+[Resolucion](https://youtu.be/X84yjrd6NGk)
+
 43. Genera un fichero index.html que contenga una etiqueta h1 con un hola mundo.
 
 Debe estar tabulado como un html.
+
+[Resolucion](https://youtu.be/ea8x-Io4QwE)
 
 44. Escribe un fichero de 20 lineas donde cada linea sera un password aleatorio.
 
@@ -30,11 +36,15 @@ Despues, obten una fila aleatoria y obten un password.
 
 Si el fichero existe y es valido (tiene al menos 20 lineas) no lo generaremos de nuevo.
 
+[Resolucion](https://youtu.be/hAKm0v_GcOo)
+
 45. Usa un Scanner para pedir lineas de texto al usuario y guardalas con un PrintWriter.
 
 Si ya tiene contenido, se lo añadiremos al final.
 
 Lee el fichero resultante con otro Scanner.
+
+[Resolucion](https://youtu.be/EWtC_1xqE4w)
 
 46. Pide una ruta de origen de un fichero.
 
@@ -59,6 +69,8 @@ Copia el fichero de origen al destino.
 
 Muestra un porcentaje del progreso de la copia.
 
+[Resolucion](https://youtu.be/DOmAGECJvxU)
+
 47. Vamos a gestionar una serie de personas.
     
 Cada registro tiene el siguiente formato:
@@ -77,6 +89,8 @@ Antes de acabar debes mostrar:
     - Nombre de la persona mas alta
     - Suma de todos los pesos
 
+[Resolucion](https://youtu.be/mBmZRqspAUk)
+
 48. Vamos a gestionar una serie de productos.
     
 Cada registro tiene el siguiente formato:
@@ -86,12 +100,16 @@ Cada registro tiene el siguiente formato:
     - Precio: float
     - Descuento: boolean
 
+[Resolucion](https://youtu.be/pPN6O-OBJRc)
+
 Crea un menu con las siguientes opciones:
 
     - Crear producto: Creamos un producto al final del fichero
     - Buscar producto: Pedimos un id y mostramos los datos de ese producto
     - Mostrar productos: Mostramos todos los productos
     - Salir: Salimos de la aplicación
+
+[Resolucion](https://youtu.be/pPN6O-OBJRc)
 
 49. Vamos a gestionar una serie de productos serializados.
 
@@ -110,6 +128,8 @@ Crea un menu con las siguientes opciones:
     - Borrar fichero: borra el fichero de los productos
     - Salir: sale de la aplicación
 
+[Resolucion](https://youtu.be/oy_tBRUqc2Q)
+
 50. Vamos a gestionar una serie de productos serializados.
 
 Crea la clase Producto con los siguientes atributos:
@@ -126,3 +146,5 @@ Crea un menu con las siguientes opciones:
     - Mostrar productos: muestra todos los prodcutos del fichero
     - Borrar fichero: borra el fichero de los productos
     - Salir: sale de la aplicación
+
+[Resolucion](https://youtu.be/PFbPUyQBsCo)

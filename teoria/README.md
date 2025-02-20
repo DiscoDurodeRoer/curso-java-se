@@ -2,82 +2,99 @@
 
 ## Basico
 
-0. Instalación Java y Apache Netbeans (IDE)
-1. Hola mundo
-2. Variables
-3. Tipos de variables
-4. Constantes
-5. Comentarios
-6. Pedir datos por Scanner
-7. Mostrar datos
-8. Operadores aritmeticos
-9. Operadores unarios
-10. Operadores logicos
-11. Operadores relaciones
-12. Casting
-13. Clase Math
-14. Generar aleatorios con Random
-15. if else
-16. else if
-17. switch
-18. while
-19. for
-20. do while
-21. Scopes
-22. String
-23. Funciones
-24. Arrays
-25. Clase Arrays
-26. Matrices
-27. Funciones y arrays
-28. Excepciones
-29. Enumerados
+0. [Instalación Java y Apache Netbeans (IDE)](https://youtu.be/QRbaGzwT2bI)
+1. [Hola mundo](https://youtu.be/P9vQVt1ijkw)
+2. [Variables](https://youtu.be/5EhR-6oW8-U)
+3. [Tipos de variables](https://youtu.be/Ex_sSkO0Jnw)
+4. [Constantes](https://youtu.be/FF0DUnrxF4w)
+5. [Comentarios](https://youtu.be/JK6nwgzKcss)
+6. [Pedir datos por Scanner](https://youtu.be/pneMBAMg2gI)
+7. [Mostrar datos](https://youtu.be/BdC78rIs53k)
+8. [Operadores aritmeticos](https://youtu.be/H6nrhX1vtWo)
+9. [Operadores unarios](https://youtu.be/k5orm0jw9fg)
+10. [Operadores logicos](https://youtu.be/Lh7ZoUBCQLM)
+11. [Operadores relaciones](https://youtu.be/DXzXImWEz7I)
+12. [Casting](https://youtu.be/w57EQJHheY8)
+13. [Clase Math](https://youtu.be/OrxPCY10xmA)
+14. [Generar aleatorios con Random](https://youtu.be/0tZX44gn-xM)
+15. [if else](https://youtu.be/L4CWveSgkrE)
+16. [else if](https://youtu.be/CZIW1rl9UaE)
+17. [switch](https://youtu.be/kjWy2CirZDw)
+18. [while](https://youtu.be/qcNKc7iuz4M)
+19. [for](https://youtu.be/zVcVRHezGIA)
+20. [do while](https://youtu.be/hruQAqkgYJ0)
+21. [Scopes](https://youtu.be/Ga3xP1qamwE)
+22. [String](https://youtu.be/Qb82zYVZOJs)
+23. [Funciones](https://youtu.be/bJ0jYu9ra3k)
+24. [Arrays](https://youtu.be/H98XZT7fllA)
+25. [Clase Arrays](https://youtu.be/zBxgqMGzeVU)
+26. [Funciones y arrays](https://youtu.be/XiUyFe0cdAQ)
+27. [Matrices](https://youtu.be/FPxR43CVFhI)
+28. [Excepciones](https://youtu.be/o4RfZHBux70)
+29. [Enumerados](https://youtu.be/Y6uo5L3z8hw)
 
 # POO
 
-30. Introduccion POO
-31. Atributos
-32. Modificadores de acceso
-33. Constructores
-34. Getters y setters
-35. Métodos
-36. Sobrecarga de métodos y constructores
-37. Método toString
-38. Métodos equals y hashCode
-39. Enumerados avanzados
-40. Atributos estáticos
-41. Métodos estáticos
-42. Objetos como atributos
-43. Record
-44. Record métodos
-45. Record constructores
-46. Record atributos estáticos
-47. Herencia
-48. Polimorfismo
-49. Abstracción
-50. Interfaces
-51. Arrays de objetos
-52. Instanceof
-53. CompareTo
-54. Clases genericas
-55. Javadoc
+30. [Introduccion POO](https://youtu.be/ufxujl6ddGI)
+31. [Atributos](https://youtu.be/uQE_jhII9yk)
+32. [Modificadores de acceso](https://youtu.be/FnoJRHANplM)
+33. [Constructores](https://youtu.be/2g_mNGcmOGU)
+34. [Getters y setters](https://youtu.be/t7mFViLoMMQ)
+35. [Métodos](https://youtu.be/5ySlie5-mbc)
+36. [Sobrecarga de métodos y constructores](https://youtu.be/DgPHq8g2uso)
+37. [Método toString](https://youtu.be/tkwJBMrhoR0)
+38. [Métodos equals y hashCode](https://youtu.be/kz7pIOQfZNI)
+39. [Enumerados avanzados](https://youtu.be/lDbuAbSnHf8)
+40. [Atributos estáticos](https://youtu.be/UL7iVWazW48)
+41. [Métodos estáticos](https://youtu.be/EpX_r4j3UyI)
+42. [Objetos como atributos](https://youtu.be/dC_bFy72sFs)
+43. [Record](https://youtu.be/xLmZv9jOI2w)
+44. [Record métodos](https://youtu.be/zApYx-giQVY)
+45. [Record constructores](https://youtu.be/kxQtB7NmFHI)
+46. [Record atributos estáticos](https://youtu.be/c2qpQY46twA)
+47. [Herencia](https://youtu.be/XJVhxtlpIlg)
+48. [Polimorfismo](https://youtu.be/TU_woJjYMfU)
+49. [Abstracción](https://youtu.be/P0jfYD4-nDM)
+50. [Interfaces](https://youtu.be/wSmj9WaJOic)
+51. [Arrays de objetos](https://youtu.be/ZQ4D0ZPJNeM)
+52. [Instanceof](https://youtu.be/5b4Fvyw39wQ)
+53. [CompareTo](https://youtu.be/USP-fQVQSAc)
+54. [Clases genericas](https://youtu.be/yOiAPHhc_qU)
+55. [Javadoc](https://youtu.be/VrT5DuwU1Xc)
 
 # Ficheros
 
-56. File
-57. Path, Paths y Files
-58. FileWriter
-59. FileReader
-60. Try resources
-61. BufferedWriter
-62. BufferedReader
-63. PrintWriter
-64. Scanner
-65. FileInputStream
-66. FileOutputStream
-67. DataOutputStream
-68. DataInputstream
-69. RandomAccessFile
-70. ObjectOutputStream
-71. ObjectInputStream
-72. MyObjectOutputStream
+56. [File](https://youtu.be/qvVYJRx8lic)
+57. [Path, Paths y Files](https://youtu.be/1iH-lPloEeY)
+58. [FileWriter](https://youtu.be/f0o5Un4FP1s)
+59. [FileReader](https://youtu.be/Cj2bc-MqCJc)
+60. [Try resources](https://youtu.be/gGSUdfdVOX8)
+61. [BufferedWriter](https://youtu.be/kcJZYWuMDp0)
+62. [BufferedReader](https://youtu.be/hh_68YqwNeQ)
+63. [PrintWriter](https://youtu.be/tKgRgSCFV1w)
+64. [Scanner](https://youtu.be/0bH5p9gdTtY)
+65. [FileInputStream](https://youtu.be/ma2uPk2ThfE)
+66. [FileOutputStream](https://youtu.be/4rZ-Yla0VT4)
+67. [DataInputstream](https://youtu.be/w3SH17x8oNc)
+68. [DataOutputStream](https://youtu.be/89QZfbWi0aY)
+69. [RandomAccessFile](https://youtu.be/27YY2SPFRn8)
+70. [ObjectOutputStream](https://youtu.be/M-Ie_yW7prQ)
+71. [ObjectInputStream](https://youtu.be/Bu47Rin_F9k)
+72. [MyObjectOutputStream](https://youtu.be/UUmOV9UgCjY)
+
+# Fechas
+
+73. [Date](https://youtu.be/ScZMEtlGFLM)
+74. [LocalDate](https://youtu.be/g_bzkrGdW9c)
+75. [Localtime](https://youtu.be/18XVhW7casY)
+76. [LocalDateTime](https://youtu.be/spe6XDkZFu8)
+77. [Calendar](https://youtu.be/gmsbyMUQyKw)
+78. [Period](https://youtu.be/zvmGsMG5HvE)
+79. [Duration](https://youtu.be/d_r0rFs4AYY)
+80. [ZoneId](https://youtu.be/Guhjw75Ocz0)
+81. [ZonedDateTime](https://youtu.be/xJE__rTLZe4)
+82. [Instant](https://youtu.be/pwWhIAGItiw)
+83. [Clock](https://youtu.be/VLtMvk7iKbQ)
+84. [ZoneOffset](https://youtu.be/doA26Z5TCBw)
+85. [OffsetDateTime](https://youtu.be/au_XKME72es)
+86. [TemporalAsjusters](https://youtu.be/GoHDWlSbaDs)
