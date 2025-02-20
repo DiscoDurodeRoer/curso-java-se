@@ -612,28 +612,22 @@ Lee el fichero resultante con otro Scanner.
 
 Debe cumplir los siguientes requisitos:
 
-    - Debe existir
+- Debe existir
+- Debe ser un fichero
+- Debe tener alguna de las siguientes extensiones:
 
-    - Debe ser un fichero
-
-    - Debe tener alguna de las siguientes extensiones:
-
-        - jpg
-
-        - png
-
-        - mp3
-
-        - mp4
+    - jpg
+    - png
+    - mp3
+    - mp4
 
 
 Tambien debes pedir la ruta donde almacenarlo.
 
 Debe cumplir los siguientes requisitos:
 
-    - Debe existir
-
-    - Debe ser un directorio
+- Debe existir
+- Debe ser un directorio
 
 Copia el fichero de origen al destino.
 
@@ -645,27 +639,19 @@ Muestra un porcentaje del progreso de la copia.
     
 Cada registro tiene el siguiente formato:
 
-    - Nombre: String de 10 caracteres 
-
-    - Edad: int
-
-    - Altura: float
-
-    - Peso: float
-
+- Nombre: String de 10 caracteres 
+- Edad: int
+- Altura: float
+- Peso: float
 
 Pide una persona al iniciar el programa y guardalo al final del fichero.
 
 Antes de acabar debes mostrar:
 
-    - El numero de personas que hay en el fichero
-
-    - Media de edad
-
-    - Nombre de la persona mas alta
-
-    - Suma de todos los pesos
-
+- El numero de personas que hay en el fichero
+- Media de edad
+- Nombre de la persona mas alta
+- Suma de todos los pesos
 
 [Resolucion](https://youtu.be/mBmZRqspAUk)
 
@@ -673,27 +659,19 @@ Antes de acabar debes mostrar:
     
 Cada registro tiene el siguiente formato:
 
-    - ID: int, este sera autoincrementado
-
-    - Nombre: String de 20 caracteres
-
-    - Precio: float
-
-    - Descuento: boolean
-
+- ID: int, este sera autoincrementado
+- Nombre: String de 20 caracteres
+- Precio: float
+- Descuento: boolean
 
 [Resolucion](https://youtu.be/pPN6O-OBJRc)
 
 Crea un menu con las siguientes opciones:
 
-    - Crear producto: Creamos un producto al final del fichero
-
-    - Buscar producto: Pedimos un id y mostramos los datos de ese producto
-
-    - Mostrar productos: Mostramos todos los productos
-
-    - Salir: Salimos de la aplicación
-
+- Crear producto: Creamos un producto al final del fichero
+- Buscar producto: Pedimos un id y mostramos los datos de ese producto
+- Mostrar productos: Mostramos todos los productos
+- Salir: Salimos de la aplicación
 
 [Resolucion](https://youtu.be/pPN6O-OBJRc)
 
@@ -701,24 +679,18 @@ Crea un menu con las siguientes opciones:
 
 Crea la clase Producto con los siguientes atributos:
 
-    - id (int)
-
-    - nombre (String)
-
-    - precio (float)
-
+- id (int)
+- nombre (String)
+- precio (float)
 
 Dentro del fichero, vamos a tener un array de productos de 10 elementos.
 
 Crea un menu con las siguientes opciones:
 
-    - Guardar producto: guarda un producto en el fichero si hay espacio en el array
-
-    - Mostrar productos: muestra todos los prodcutos del fichero
-
-    - Borrar fichero: borra el fichero de los productos
-
-    - Salir: sale de la aplicación
+- Guardar producto: guarda un producto en el fichero si hay espacio en el array
+- Mostrar productos: muestra todos los prodcutos del fichero
+- Borrar fichero: borra el fichero de los productos
+- Salir: sale de la aplicación
 
 
 [Resolucion](https://youtu.be/oy_tBRUqc2Q)
@@ -727,25 +699,18 @@ Crea un menu con las siguientes opciones:
 
 Crea la clase Producto con los siguientes atributos:
 
-    - id (int)
-
-    - nombre (String)
-
-    - precio (float)
-
+- id (int)
+- nombre (String)
+- precio (float)
 
 Puedes insertar tantos productos como quieras. Los productos debe ser independientes dentro del fichero (sin arrays)
 
 Crea un menu con las siguientes opciones:
 
-    - Guardar producto: guarda un producto en el fichero
-
-    - Mostrar productos: muestra todos los prodcutos del fichero
-
-    - Borrar fichero: borra el fichero de los productos
-
-    - Salir: sale de la aplicación
-
+- Guardar producto: guarda un producto en el fichero
+- Mostrar productos: muestra todos los prodcutos del fichero
+- Borrar fichero: borra el fichero de los productos
+- Salir: sale de la aplicación
 
 [Resolucion](https://youtu.be/PFbPUyQBsCo)
 
