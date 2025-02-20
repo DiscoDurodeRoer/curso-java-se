@@ -156,6 +156,8 @@
 
     Un libro es igual a otro cuando sus ISBN son iguales
 
+[Resolucion](https://youtu.be/Ub-p5RUJ0ws)
+
 32. Crea una clase que represente a un ordenador. Un ordenador se define por:
 
     - Marca
@@ -193,6 +195,8 @@
     Un ordenador es igual a otro cuando tienen la misma marca y modelo.
 
     Muestra la informacion con toString
+
+[Resolucion](https://youtu.be/TdGcQiTMjsQ)
 
 33. Crea una clase que represente a un empleado. Un empleado se define por:
 
@@ -234,7 +238,11 @@
 
     Muestra la información del empleado.
 
+[Resolucion](https://youtu.be/ZboRq87cCSA)
+
 34. Realiza el ejercicio 31 usando Record
+
+[Resolucion](https://youtu.be/tvbuof7Y7hM)
 
 35. Crea una clase que represente un Producto. Un producto se define por:
 
@@ -274,6 +282,8 @@
 
     - comprar: dada una cantidad, indicar el precio total
 
+[Resolucion](https://youtu.be/RVTOmpTGHfs)
+
 36. Crea una clase que represente a un vehiculo Un vehiculo se define por:
 
     - Marca
@@ -305,6 +315,8 @@
     - Si es o no descapotable
 
     Crea un método toString para mostrar su informacion.
+
+[Resolucion](https://youtu.be/pQMsKMMNQt0)
 
 37. Crea una clase que represente un aeropuerto. Un aeropuerto se define por:
 
@@ -345,6 +357,8 @@
     Encapsula todos sus atributos. Crea dos constructores, uno vacio y otro por defecto. Las operaciones que se deben implementar:
 
     - gananciasTotales: dada una cantidad, se dividira entre el numero de socios.
+
+[Resolucion](https://youtu.be/DPgBhsBpZEQ)
 
 38. Crea una interfaz que se llame Prestable:
 
@@ -388,6 +402,8 @@
 
     - devolver: devuelve el valor del atributo cantidad al titular, mostrará un mensaje indicándolo. El adeudo se reducirá, el adeudo no puede ser negativo, por lo que se quedara en cero en ese caso.
 
+[Resolucion](https://youtu.be/zXp7jL6cX0c)
+
 39. Recuperamos la clase Producto y sus clases hijas. Crea un array de productos de diferentes tipos y muestralos ordenados por precio del mas barato al mas caro.
 
     Al final debes mostrar:
@@ -399,6 +415,8 @@
     - el producto refrigerado tiene el cajon mas alejado
 
     - el producto fresco mas proximo a caducar
+
+[Resolucion](https://youtu.be/5aWLi14-ccw)
 
 40. Crea una clase llamada Lista.
 
@@ -440,6 +458,8 @@
 
     - vaciar: reinicia el array al tamaño original
 
+[Resolucion](https://youtu.be/rtHOpAXF1Kc)
+
 ## Ficheros
 
 41. Crea un directorio llamado pruebas.
@@ -454,15 +474,21 @@ Si el directorio pruebas existe, lo borraremos antes de empezar a crear.
 
 Puedes hacerlo con File o Path.
 
+[Resolucion](https://youtu.be/ApD0XlxWSMc)
+
 42. Pide un número positivo por teclado. 
 
 Escribe en el fichero numeros.txt los numeros del 1 al número introducido.
 
 Despues, lee el fichero y muestra su contenido.
 
+[Resolucion](https://youtu.be/X84yjrd6NGk)
+
 43. Genera un fichero index.html que contenga una etiqueta h1 con un hola mundo.
 
 Debe estar tabulado como un html.
+
+[Resolucion](https://youtu.be/ea8x-Io4QwE)
 
 44. Escribe un fichero de 20 lineas donde cada linea sera un password aleatorio.
 
@@ -472,99 +498,153 @@ Despues, obten una fila aleatoria y obten un password.
 
 Si el fichero existe y es valido (tiene al menos 20 lineas) no lo generaremos de nuevo.
 
+[Resolucion](https://youtu.be/hAKm0v_GcOo)
+
 45. Usa un Scanner para pedir lineas de texto al usuario y guardalas con un PrintWriter.
 
 Si ya tiene contenido, se lo añadiremos al final.
 
 Lee el fichero resultante con otro Scanner.
 
+[Resolucion](https://youtu.be/EWtC_1xqE4w)
+
 46. Pide una ruta de origen de un fichero.
 
 Debe cumplir los siguientes requisitos:
 
     - Debe existir
+
     - Debe ser un fichero
+
     - Debe tener alguna de las siguientes extensiones:
+
         - jpg
+
         - png
+
         - mp3
+
         - mp4
+
 
 Tambien debes pedir la ruta donde almacenarlo.
 
 Debe cumplir los siguientes requisitos:
 
     - Debe existir
+
     - Debe ser un directorio
 
 Copia el fichero de origen al destino.
 
 Muestra un porcentaje del progreso de la copia.
 
+[Resolucion](https://youtu.be/DOmAGECJvxU)
+
 47. Vamos a gestionar una serie de personas.
     
 Cada registro tiene el siguiente formato:
 
     - Nombre: String de 10 caracteres 
+
     - Edad: int
+
     - Altura: float
+
     - Peso: float
+
 
 Pide una persona al iniciar el programa y guardalo al final del fichero.
 
 Antes de acabar debes mostrar:
 
     - El numero de personas que hay en el fichero
+
     - Media de edad
+
     - Nombre de la persona mas alta
+
     - Suma de todos los pesos
+
+
+[Resolucion](https://youtu.be/mBmZRqspAUk)
 
 48. Vamos a gestionar una serie de productos.
     
 Cada registro tiene el siguiente formato:
 
     - ID: int, este sera autoincrementado
+
     - Nombre: String de 20 caracteres
+
     - Precio: float
+
     - Descuento: boolean
+
+
+[Resolucion](https://youtu.be/pPN6O-OBJRc)
 
 Crea un menu con las siguientes opciones:
 
     - Crear producto: Creamos un producto al final del fichero
+
     - Buscar producto: Pedimos un id y mostramos los datos de ese producto
+
     - Mostrar productos: Mostramos todos los productos
+
     - Salir: Salimos de la aplicación
+
+
+[Resolucion](https://youtu.be/pPN6O-OBJRc)
 
 49. Vamos a gestionar una serie de productos serializados.
 
 Crea la clase Producto con los siguientes atributos:
 
     - id (int)
+
     - nombre (String)
+
     - precio (float)
+
 
 Dentro del fichero, vamos a tener un array de productos de 10 elementos.
 
 Crea un menu con las siguientes opciones:
 
     - Guardar producto: guarda un producto en el fichero si hay espacio en el array
+
     - Mostrar productos: muestra todos los prodcutos del fichero
+
     - Borrar fichero: borra el fichero de los productos
+
     - Salir: sale de la aplicación
+
+
+[Resolucion](https://youtu.be/oy_tBRUqc2Q)
 
 50. Vamos a gestionar una serie de productos serializados.
 
 Crea la clase Producto con los siguientes atributos:
 
     - id (int)
+
     - nombre (String)
+
     - precio (float)
+
 
 Puedes insertar tantos productos como quieras. Los productos debe ser independientes dentro del fichero (sin arrays)
 
 Crea un menu con las siguientes opciones:
 
     - Guardar producto: guarda un producto en el fichero
+
     - Mostrar productos: muestra todos los prodcutos del fichero
+
     - Borrar fichero: borra el fichero de los productos
+
     - Salir: sale de la aplicación
+
+
+[Resolucion](https://youtu.be/PFbPUyQBsCo)

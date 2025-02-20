@@ -496,43 +496,43 @@ Video en [youtube](https://youtu.be/uevW8V0-CB8)
 
 40. Crea una clase llamada Lista.
 
-Se define por los atributos:
+    Se define por los atributos:
 
-elementos
+    - elementos
 
-numElementos
+    - numElementos
 
-El atributo elementos puede ser cualquier tipo que le indiquemos. Tendremos un constructor donde le pasaremos el tamaño que queremos del array, debe ser positivo.
+    El atributo elementos puede ser cualquier tipo que le indiquemos. Tendremos un constructor donde le pasaremos el tamaño que queremos del array, debe ser positivo.
 
-Crea una interfaz llamada Listable con las siguientes operaciones:
+    Crea una interfaz llamada Listable con las siguientes operaciones:
 
-posicion: le pasamos un elemento T y devolvera un numero
+    - posicion: le pasamos un elemento T y devolvera un numero
 
-aniadir: le pasamos un elemento T y devolvera un booleano
+    - aniadir: le pasamos un elemento T y devolvera un booleano
 
-tamanio: sin parametros y devolvera un numero
+    - tamanio: sin parametros y devolvera un numero
 
-eliminar: le pasamos un elemento T y devolvera un booleano
+    - eliminar: le pasamos un elemento T y devolvera un booleano
 
-listar: sin parametros y no devuelve nada
+    - listar: sin parametros y no devuelve nada
 
-vaciar: sin parametros y no devuelve nada
+    - vaciar: sin parametros y no devuelve nada
 
-Implementala en nuestra clase Lista
+    Implementala en nuestra clase Lista
 
-Las operaciones de Lista son:
+    Las operaciones de Lista son:
 
-posicion: dado un elemento, indica en que indice esta, sino existe, devolvemos un -1
+    - posicion: dado un elemento, indica en que indice esta, sino existe, devolvemos un -1
 
-aniadir: añade un elemento al array, siempre y cuando haya espacio. No se admiten repetidos. True si lo añade y false sino lo hace
+    - aniadir: añade un elemento al array, siempre y cuando haya espacio. No se admiten repetidos. True si lo añade y false sino lo hace
 
-tamanio: devuelve el numero de elementos que hay
+    - tamanio: devuelve el numero de elementos que hay
 
-eliminar: elimina el elemento que le pasemos. True si lo elimina y false sino lo hace.
+    - eliminar: elimina el elemento que le pasemos. True si lo elimina y false sino lo hace.
 
-listar: muestra los elementos que tenemos
+    - listar: muestra los elementos que tenemos
 
-vaciar: reinicia el array al tamaño original
+    - vaciar: reinicia el array al tamaño original
 
 [Resolucion](https://youtu.be/rtHOpAXF1Kc)
 
@@ -613,18 +613,26 @@ Lee el fichero resultante con otro Scanner.
 Debe cumplir los siguientes requisitos:
 
     - Debe existir
+
     - Debe ser un fichero
+
     - Debe tener alguna de las siguientes extensiones:
+
         - jpg
+
         - png
+
         - mp3
+
         - mp4
+
 
 Tambien debes pedir la ruta donde almacenarlo.
 
 Debe cumplir los siguientes requisitos:
 
     - Debe existir
+
     - Debe ser un directorio
 
 Copia el fichero de origen al destino.
@@ -638,18 +646,26 @@ Muestra un porcentaje del progreso de la copia.
 Cada registro tiene el siguiente formato:
 
     - Nombre: String de 10 caracteres 
+
     - Edad: int
+
     - Altura: float
+
     - Peso: float
+
 
 Pide una persona al iniciar el programa y guardalo al final del fichero.
 
 Antes de acabar debes mostrar:
 
     - El numero de personas que hay en el fichero
+
     - Media de edad
+
     - Nombre de la persona mas alta
+
     - Suma de todos los pesos
+
 
 [Resolucion](https://youtu.be/mBmZRqspAUk)
 
@@ -658,18 +674,26 @@ Antes de acabar debes mostrar:
 Cada registro tiene el siguiente formato:
 
     - ID: int, este sera autoincrementado
+
     - Nombre: String de 20 caracteres
+
     - Precio: float
+
     - Descuento: boolean
+
 
 [Resolucion](https://youtu.be/pPN6O-OBJRc)
 
 Crea un menu con las siguientes opciones:
 
     - Crear producto: Creamos un producto al final del fichero
+
     - Buscar producto: Pedimos un id y mostramos los datos de ese producto
+
     - Mostrar productos: Mostramos todos los productos
+
     - Salir: Salimos de la aplicación
+
 
 [Resolucion](https://youtu.be/pPN6O-OBJRc)
 
@@ -678,17 +702,24 @@ Crea un menu con las siguientes opciones:
 Crea la clase Producto con los siguientes atributos:
 
     - id (int)
+
     - nombre (String)
+
     - precio (float)
+
 
 Dentro del fichero, vamos a tener un array de productos de 10 elementos.
 
 Crea un menu con las siguientes opciones:
 
     - Guardar producto: guarda un producto en el fichero si hay espacio en el array
+
     - Mostrar productos: muestra todos los prodcutos del fichero
+
     - Borrar fichero: borra el fichero de los productos
+
     - Salir: sale de la aplicación
+
 
 [Resolucion](https://youtu.be/oy_tBRUqc2Q)
 
@@ -697,17 +728,24 @@ Crea un menu con las siguientes opciones:
 Crea la clase Producto con los siguientes atributos:
 
     - id (int)
+
     - nombre (String)
+
     - precio (float)
+
 
 Puedes insertar tantos productos como quieras. Los productos debe ser independientes dentro del fichero (sin arrays)
 
 Crea un menu con las siguientes opciones:
 
     - Guardar producto: guarda un producto en el fichero
+
     - Mostrar productos: muestra todos los prodcutos del fichero
+
     - Borrar fichero: borra el fichero de los productos
+
     - Salir: sale de la aplicación
+
 
 [Resolucion](https://youtu.be/PFbPUyQBsCo)
 
